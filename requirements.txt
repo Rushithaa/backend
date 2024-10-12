@@ -1,0 +1,6 @@
+requests
+py5paisa
+tabulate
+pytz
+pymongo
+apscheduler
